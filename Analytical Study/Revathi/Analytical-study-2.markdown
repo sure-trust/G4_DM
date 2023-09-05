@@ -1,22 +1,9 @@
 **ANALYTICAL STUDY -- 1**
 
-![](vertopal_3f2200242403495d83f32a96befe05e0/media/image1.png){width="3.0694444444444446in"
-height="0.9791666666666666in"}
 
-**SAMSUNG**
+![image](https://github.com/Revathi-Genji/G4_DM/assets/144140117/8ed6355c-63d9-48dc-9532-4e667bacac7a)
 
-**CEO** **:**\
-**Head Quarters:**msung Electronics Building, 11, Seocho-daero 74-gil ·
-·
 
-+-----------------------------------+-----------------------------------+
-| Tagline\                          | > : Inspire the World, Create the |
-| Products                          | > future\                         |
-|                                   | > : Electronic devices(Mobile     |
-|                                   | > phones, Televisions,            |
-|                                   | > Refrigerators etc.)             |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
 
 **Segmentation, Targeting and Positioning (STP) strategy of SAMSUNG**\
 Samsung manufactures three types of products i.e.,\
