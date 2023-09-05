@@ -1,6 +1,7 @@
 [ANALYTICAL STUDY -- 2]{.underline}
 
-![](image1.png)
+![Uploading Screenshot (58).png…]()
+
 
 
 > In 1824cabdury was established by john Cadbury in Birmingham, England.
