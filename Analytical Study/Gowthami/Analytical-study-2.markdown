@@ -1,7 +1,6 @@
-[ANALYTICAL STUDY -- 2]{.underline}
+ANALYTICAL STUDY -- 2
 
-![Uploading Screenshot (58).png…]()
-
+![image](https://github.com/sure-trust/G4_DM/assets/73131499/898db864-7f9c-42df-ab34-d26310d0c267)
 
 
 > In 1824cabdury was established by john Cadbury in Birmingham, England.
