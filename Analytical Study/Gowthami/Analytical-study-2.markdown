@@ -1,7 +1,7 @@
 [ANALYTICAL STUDY -- 2]{.underline}
 
-![](vertopal_fc6da81cfe5343aba1970a86faed41ea/media/image1.png){width="6.268054461942257in"
-height="2.45in"}
+![](image1.png)
+
 
 > In 1824cabdury was established by john Cadbury in Birmingham, England.
 > later 2010, Cadbury was acquired by Kraft Foods and is currently
