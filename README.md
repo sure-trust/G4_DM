@@ -19,6 +19,14 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Digital Marketing Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/54)
 
+
+|Students Name|Link|
+|-------------|----|
+|Gowthami|[click here](link)|
+|Hemalatha|[click here](link)|
+|Pranay|[click here](link)|
+|Revathi|[click here](link)|
+
 ## Repository Description
 
 This repository is designed to support the G4 Digital Marketing program at SURE Trust. It follows the below mentioned organization structure:
