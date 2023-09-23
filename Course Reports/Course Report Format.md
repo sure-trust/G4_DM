@@ -23,5 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Activity: [Project Description]     | [Project Link]                         |
+| Analytical: [Project Description]     | [Project Link]                         |
+|Assignment:[Project Description]        |[Project Link]                           |
