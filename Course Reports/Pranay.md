@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| | Activty: Activity 1  | [Click Here](https://github.com/sure-trust/G4_DM/blob/main/Activity/Pranay/activity%201%20-%20pranay%20.jpg)|
+|  Activty: Activity 1  | [Click Here](https://github.com/sure-trust/G4_DM/blob/main/Activity/Pranay/activity%201%20-%20pranay%20.jpg)|
 |Activity :Activity 2|[Click Here](https://github.com/sure-trust/G4_DM/blob/main/Activity/Pranay/activity%202%20-%20pranay.png)|
 | Analytical Study: Analytical Study     | [Click Here](https://github.com/sure-trust/G4_DM/tree/main/Analytical%20Study/Pranay)|
 |Assignment: All Assignments|[Click Here](https://github.com/sure-trust/G4_DM/tree/main/Assignment/Pranay)|
