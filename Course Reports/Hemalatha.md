@@ -23,7 +23,7 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-|| Activty: Activity 1  | [Click Here](https://github.com/sure-trust/G4_DM/blob/main/Activity/Hemalatha/ACTIVITY-1_%20HEMALATHA.jpg)|
+|Activty: Activity 1  | [Click Here](https://github.com/sure-trust/G4_DM/blob/main/Activity/Hemalatha/ACTIVITY-1_%20HEMALATHA.jpg)|
 |Activity :Activity 2|[Click Here](https://github.com/sure-trust/G4_DM/blob/main/Activity/Hemalatha/ACTIVITY-2_%20HEMALATHA.jpg)|
 | Analytical Study: Analytical Study     | [Click Here](https://github.com/sure-trust/G4_DM/blob/main/Analytical%20Study/Hemalatha/ANALYTICAL%20STUDY_HEMALATHA.docx)|
 |Assignment: All Assignments|[Click Here](https://github.com/sure-trust/G4_DM/tree/main/Assignment/Hemalatha)| 
