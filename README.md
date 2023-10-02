@@ -22,10 +22,10 @@ To enroll in the Digital Marketing Course, please visit the official SURE Trust 
 
 |Students Name|Link|
 |-------------|----|
-|Gowthami|[click here](link)|
-|Hemalatha|[click here](link)|
-|Pranay|[click here](link)|
-|Revathi|[click here](link)|
+|Gowthami|[click here](https://github.com/sure-trust/G4_DM/blob/main/Course%20Reports/Gowthami.md)|
+|Hemalatha|[click here](https://github.com/sure-trust/G4_DM/blob/main/Course%20Reports/Hemalatha.md)|
+|Pranay|[click here](https://github.com/sure-trust/G4_DM/blob/main/Course%20Reports/Pranay.md)|
+|Revathi|[click here](https://github.com/sure-trust/G4_DM/blob/main/Course%20Reports/Revathi.md)|
 
 ## Repository Description
 
