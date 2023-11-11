@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## Digital Marketing Course Registration
 
-To enroll in the Digital Marketing Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/54)
+To enroll in the Digital Marketing Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 
 |Students Name|Link|
